@@ -1,5 +1,13 @@
 # BRIGHTCOFFEE-AI-DATA-AGENT
+<h1 align="center"> Brightlearn Coffee AI Data Agent</h1>
 
+<p align="center">
+  <img src="images/brightcoffee-ai-agent.jpg" alt="Brightlearn Coffee AI Agent" width="350"/>
+</p>
+
+<p align="center">
+  <b>An AI-powered Business Intelligence Agent built with Databricks AI</b>
+</p>
 (https://dbc-dbbc65af-107a.cloud.databricks.com/genie/rooms/01f1837f9cdc10b09fdc3feb08aefcee?o=7474651591713949) 
 
 An AI-powered Business Intelligence Agent built using Databricks AI/GenAI to provide business insights from the Brightlearn Coffee dataset. The agent enables business users to ask natural language questions and receive data-driven insights, executive summaries, visual explanations, and actionable recommendations.
